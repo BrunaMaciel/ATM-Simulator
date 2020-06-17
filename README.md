@@ -1,6 +1,8 @@
 # ATM-Simulator
 Project that simulates an ATM developed for the Programmer Analyst Program at CDI College Montréal in 2020.
 
+Implemented with C# using support files as source.
+
 What is included
 
 • The "Project" pdf document that describes the project assignment.
