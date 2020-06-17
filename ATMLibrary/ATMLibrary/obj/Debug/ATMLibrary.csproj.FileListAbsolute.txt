@@ -1,0 +1,8 @@
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\bin\Debug\ATMLibrary.dll
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\bin\Debug\ATMLibrary.pdb
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.csprojAssemblyReference.cache
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.dll
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.pdb
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.Properties.Resources.resources
+C:\Users\bruhn\Desktop\Integrated Project\P1\ATMLibrary\ATMLibrary\obj\Debug\ATMLibrary.csproj.GenerateResource.cache

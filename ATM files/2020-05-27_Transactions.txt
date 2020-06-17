@@ -1,0 +1,12 @@
+1000,2020-05-27 5:17:45 PM,F,0,5000.00,BANK,0000,B,00000,19756.47,19756.47,NOK,ATM refil not possible. Refil exceeds the ATM maximum amount.
+1001,2020-05-27 5:18:22 PM,R,0,5000.00,Korben Dallas,SD01,B,00000,19756.47,19756.47,NOK,ATM refil not possible. Refil exceeds the ATM maximum amount.
+1002,2020-05-27 5:18:23 PM,I,0,0.00,Korben Dallas,D001,S,20030,21.53,19756.47,OK,Interest payed
+1003,2020-05-27 5:18:23 PM,I,0,0.02,Jerry Cann,C001,S,20101,790.02,19756.47,OK,Interest payed
+1004,2020-05-27 5:18:23 PM,I,0,0.00,Eric Clapton,C002,S,20001,54.45,19756.47,OK,Interest payed
+1005,2020-05-27 5:18:23 PM,I,0,0.02,Carlos Santana,S001,S,20034,600.02,19756.47,OK,Interest payed
+1006,2020-05-27 5:18:23 PM,I,0,0.00,Elton John,J001,S,20008,135.00,19756.47,OK,Interest payed
+1007,2020-05-27 5:18:50 PM,W,0,120.00,Jerry Cann,C001,C,10021,907.63,19636.47,OK,Withdraw completed.
+1008,2020-05-27 5:19:00 PM,D,0,180.00,Jerry Cann,C001,S,20101,970.02,19636.47,OK,Deposit completed.
+1009,2020-05-27 5:19:07 PM,T,0,20.00,Jerry Cann,C001,C,10021,887.63,19636.47,OK,Funds transference completed.
+1010,2020-05-27 5:19:07 PM,T,0,20.00,Jerry Cann,C001,S,20101,990.02,19636.47,OK,Funds transference completed.
+1011,2020-05-27 5:19:15 PM,B,1.25,30.00,Jerry Cann,C001,C,10021,856.38,19636.47,OK,Bill payed.

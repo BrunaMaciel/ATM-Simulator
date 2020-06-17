@@ -1,0 +1,27 @@
+﻿<Window x:Class="ATMSimulator.SupervisorMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATMSimulator"
+        mc:Ignorable="d"
+        Title="Supervisor Menu" Height="616" Width="514">
+    <Grid Background="{DynamicResource {x:Static SystemColors.AppWorkspaceBrushKey}}">
+        <Label x:Name="welcome_lb" Content="Welcome" HorizontalContentAlignment="Center" Margin="0,24,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <GroupBox Header="ATM Information" HorizontalAlignment="Left" Height="111" Margin="33,87,0,0" VerticalAlignment="Top" Width="439" FontSize="16">
+            <Grid HorizontalAlignment="Left" Margin="10,10,0,1" VerticalAlignment="Stretch" Width="409">
+                <Label x:Name="atmBalance_lb" Content="Balance:" VerticalAlignment="Top" Margin="0,0,292,0"/>
+                <Label x:Name="atmBalance" Content="" VerticalAlignment="Top" Margin="122,0,10,0"/>
+                <Label x:Name="atmStatus_lb" Content="Status:" VerticalAlignment="Top" Margin="0,31,292,0"/>
+                <Label x:Name="atmStatus" Content="" VerticalAlignment="Top" Margin="122,31,10,0"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="payInterest_btn" Content="Pay Interest" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="33,271,0,0" Height="45" FontSize="16" Click="PayInterest_btn_Click"/>
+        <Button x:Name="refilATM_btn" Content="Refil ATM" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="33,327,0,0" Height="45" FontSize="16" Click="RefilATM_btn_Click"/>
+        <Button x:Name="changeStatus_btn" Content="Change ATM Status" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="277,271,0,0" Height="45" FontSize="16" Click="ChangeStatus_btn_Click"/>
+        <Button x:Name="accReport_btn" Content="Accounts Report" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="277,327,0,0" Height="45" FontSize="16" Click="AccReport_btn_Click"/>
+        <Button x:Name="transReport_btn" Content="Transactions Report" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="33,387,0,0" Height="45" FontSize="16" Click="TransReport_btn_Click"/>
+        <Button x:Name="close_btn" Content="Close" HorizontalAlignment="Left" VerticalAlignment="Top" Width="195" Margin="277,387,0,0" Height="45" FontSize="16" Click="Close_btn_Click"/>
+
+    </Grid>
+</Window>
