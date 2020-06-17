@@ -3,6 +3,8 @@ Project that simulates an ATM developed for the Programmer Analyst Program at CD
 
 What is included
 
+• The "Project" pdf document that describes the project assignment.
+
 • The "ATM Simulator" pdf document that describes the project operation and its key functions.
 
 • A C# library project with the coding to perform the key functions of the ATM simulator called “ATMLibrary”.
